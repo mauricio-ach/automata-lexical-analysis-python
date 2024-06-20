@@ -1,4 +1,4 @@
-# Implementación de un autómata en Python
+# Implementación de un autómata para análisis léxico en Python
 
 ## Objetivo
 En este repositorio se encuetra la implementación de diversos algoritmos que se aplican en el análisis léxico de compiladores (principalmente en automátas). Se deja la implementación como pública para ser reutilizada o mejorada, cualquier comentario es bienvenido.
